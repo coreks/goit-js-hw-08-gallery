@@ -101,11 +101,6 @@ function onGalleryImageClick(e) {
 
   e.preventDefault();
   onOpenModal(e);
-  onCloseModal;
-  onOverlayClick(e);
-  onEscKeyPress(e);
-  // onNextImage(e);
-  // onPrevImage(e);
 }
 
 function onOpenModal() {
